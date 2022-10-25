@@ -5,3 +5,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 22874
 5268
 7297
+21373
+28788
+1362
