@@ -14,3 +14,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 12839
 14596
 12978
+27727
+13884
+24938
