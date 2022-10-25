@@ -50,3 +50,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 826
 8791
 17459
+8021
+26886
+18065
