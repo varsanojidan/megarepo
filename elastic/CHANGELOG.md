@@ -98,3 +98,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 25496
 31789
 23921
+26017
+26491
+29
