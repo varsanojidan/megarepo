@@ -34,3 +34,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 23638
 28168
 7084
+6763
