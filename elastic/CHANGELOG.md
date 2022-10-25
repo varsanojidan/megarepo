@@ -70,3 +70,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 28527
 22547
 19033
+7830
