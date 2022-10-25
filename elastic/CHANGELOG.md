@@ -28,3 +28,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 20331
 24325
 24464
+5312
