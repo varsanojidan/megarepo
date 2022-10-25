@@ -32,3 +32,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 26435
 21133
 23638
+28168
+7084
+6763
