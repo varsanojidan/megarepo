@@ -12,3 +12,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 8986
 15262
 12839
+14596
