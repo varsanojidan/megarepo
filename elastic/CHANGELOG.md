@@ -44,3 +44,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 1378
 30874
 21071
+11575
+29550
+1859
