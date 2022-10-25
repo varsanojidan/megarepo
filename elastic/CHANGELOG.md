@@ -26,3 +26,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 8064
 16780
 20331
+24325
+24464
+5312
