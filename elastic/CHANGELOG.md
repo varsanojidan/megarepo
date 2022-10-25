@@ -35,3 +35,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 28168
 7084
 6763
+2736
+27143
+18737
