@@ -85,3 +85,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 12989
 2547
 19226
+21172
