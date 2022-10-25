@@ -119,3 +119,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 21589
 11157
 30759
+23787
+24216
+20254
