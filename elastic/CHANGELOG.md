@@ -20,3 +20,4 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 16726
 10743
 29115
+978
