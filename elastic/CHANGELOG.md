@@ -59,3 +59,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 21989
 9405
 3179
+26040
+22841
+2532
