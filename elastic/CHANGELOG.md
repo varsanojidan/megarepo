@@ -65,3 +65,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 3429
 29671
 9872
+19134
+996
+28527
