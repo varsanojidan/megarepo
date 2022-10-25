@@ -110,3 +110,6 @@ Please see the [release notes](https://www.elastic.co/guide/en/elasticsearch/ref
 18280
 761
 2821
+1928
+13721
+7640
